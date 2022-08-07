@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "music-nksagj704-memoinry.vercel.app/:match*"
+      "destination": "music.m1m0ry.com/:match*"
     }
   ]
 }
