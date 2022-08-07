@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "music-nksagj704-memoinry.vercel.app/:match*"
+    }
+  ]
+}
